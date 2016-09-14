@@ -1,0 +1,9 @@
+#dont-hover {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+}
+
+input {
+  margin-bottom: 10px;
+}
